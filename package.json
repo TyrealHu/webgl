@@ -1,0 +1,22 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "## 初识WEBGL 代码`./day-one` ### 简介 MDN上对于[WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL)有着详细的介绍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyrealHu/webgl.git"
+  },
+  "author": "tyrealhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TyrealHu/webgl/issues"
+  },
+  "homepage": "https://github.com/TyrealHu/webgl#readme",
+  "dependencies": {
+    "three": "^0.142.0"
+  }
+}
